@@ -1,2 +1,2 @@
 # computervision
-This repo comprises my revision for the computer vision section of the module, Intro to Artificial Intelligence.
+This repo comprises some of the computer vision codes I did for assignments.
