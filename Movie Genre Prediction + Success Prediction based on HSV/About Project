@@ -1,3 +1,12 @@
+What I basically did:
+
 1. Predicting genre of movie using deep learning based on the movie poster images. As part of the project, I was exploring on ResNet50. 
 
 2. Gauge whether the movie will be successful based on the movie poster image. I was in particular extracting HSV features from the poster images to determine if the movie will be successful using logistic regression.
+
+Reference:
+https://github.com/CS3244-ML-AY2021S1-0037/CS3244-ML
+
+http://cs230.stanford.edu/projects_winter_2020/posters/32643471.pdf
+
+http://cs230.stanford.edu/projects_winter_2020/reports/32643471.pdf
